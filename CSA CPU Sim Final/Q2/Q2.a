@@ -1,0 +1,43 @@
+
+
+start:	
+	read
+	CIL
+	write
+
+	read
+	CLA
+	
+	read
+	CIR
+	write	
+	
+	CLE
+
+	CME	
+
+	read
+	CMA
+	write
+
+	read  
+	INC
+	write
+
+	read
+	SPA
+	write
+
+	read
+	SNA
+	write
+
+	read
+	SZA
+	write
+
+	read
+	SZE
+	write
+
+Done: 	Stop

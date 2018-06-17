@@ -1,0 +1,28 @@
+
+Start:	read
+	Store a
+	read
+	Add a
+	write
+
+	read
+	Store b
+	read
+	And b
+	write
+
+	read
+	Store c
+	ISZ c
+	write
+	
+	BUN Jump
+
+
+Jump:    read
+	 write
+	 Stop
+
+a: .data 2 0
+b: .data 2 0
+c: .data 2 0

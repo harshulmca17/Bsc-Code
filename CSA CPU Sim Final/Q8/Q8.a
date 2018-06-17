@@ -1,0 +1,10 @@
+start:	
+	read 
+	Store var
+	read
+	Add var
+	write
+	Stop
+	
+	
+var: .data 2 0

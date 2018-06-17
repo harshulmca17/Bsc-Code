@@ -1,0 +1,10 @@
+start:	
+	read
+	Store icsz
+	ICSZ icsz
+	write
+
+	 
+	Stop
+
+icsz: .data 2 0

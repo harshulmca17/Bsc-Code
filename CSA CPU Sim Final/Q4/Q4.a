@@ -1,0 +1,13 @@
+start:	
+	read 
+	Store var 0
+	BSA add 0
+	write
+	Stop
+	
+add:
+	read
+	Add var 0 
+	BUN 0 1
+
+var: .data 2 0

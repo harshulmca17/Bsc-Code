@@ -1,0 +1,12 @@
+start:	
+	read
+	check goto 
+	Add add
+	Store add
+	Start start
+goto:
+	Load add
+	write
+	Stop
+	
+add: .data 2 0
