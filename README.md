@@ -1,6 +1,6 @@
 # Bsc-Code
 
-The following repository consist of lab excercises which solved in my Bsc Hons Computer Science course. 
+The following repository consist of lab excercises which i solved in Bsc Hons Computer Science course. 
 
 Course Details :
 
@@ -10,8 +10,8 @@ Description :- Deep and thorough study in computer science
 
 Student Details :
 
-Name :- Harshul Kumar
-College Roll No :- 14HCS4158
+Name :- Harshul Kumar,
+College Roll No :- 14HCS4158,
 Roll No :- 14015270009
 
 Currently Persuing :- Master's of Computer Application 
